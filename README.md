@@ -1,5 +1,3 @@
-# ace-iac-day-two
-PR for ACE IaC certification
 terraform {
   required_providers {
     aviatrix = {
